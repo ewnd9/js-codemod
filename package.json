@@ -17,6 +17,7 @@
     "recast"
   ],
   "dependencies": {
+    "5to6-codemod": "^1.1.0",
     "jscodeshift": "^0.3.20",
     "nuclide-format-js-base": "0.0.35"
   },
